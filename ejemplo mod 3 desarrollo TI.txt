@@ -1,1 +1,2 @@
 archivo texto ejemplo para el mod 3 desarrollo TI
+ahora podemos editar el archivo 
